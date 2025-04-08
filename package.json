@@ -1,0 +1,11 @@
+{
+  "name": "com.berkcankarabulut.singletonhandler",
+  "version": "1.0.0",
+  "displayName": "Singleton Handler",
+  "description": "A robust, customizable Singleton implementation for MonoBehaviour-based Unity components.",
+  "author": {
+    "name": "Berkcan Karabulut",
+    "url": "https://github.com/berkcankarabulut"
+  },
+  "dependencies": {}
+}
